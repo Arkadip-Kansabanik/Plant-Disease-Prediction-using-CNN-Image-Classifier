@@ -198,10 +198,6 @@ This project demonstrates the effectiveness of CNN-based and hybrid deep learnin
 
 ---
 
-# Author
 
-## Arkadip Kansabanik
-
-Ramakrishna Mission Vivekananda Educational & Research Institute
 
 ---
